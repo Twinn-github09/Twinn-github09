@@ -12,10 +12,11 @@
 - Web Development
 
 ### Interests:
-- Photography
-- Exploring new technologies
+📸 Photography
+💻 Exploring new technologies
 
-### Connect with Me:
+
+### 👨‍👨‍👦‍👦 Connect with Me:
 - LinkedIn: [Roshan's LinkedIn](https://www.linkedin.com/in/t-roshan-3973041b5/)
 - Email: your.email@example.com
 
