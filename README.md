@@ -1,8 +1,8 @@
 ## Hi there 👋
-## About Me :
+# About Me :
 It's Roshan 
-🌱Pursuing my undergraduate in Amrita Vishwa Vidhyapeetham
-⚡In field of Artificial Intelligence
+-🌱Pursuing my undergraduate in Amrita Vishwa Vidhyapeetham
+-⚡In field of Artificial Intelligence
 
 <!--
 **Twinn-github09/Twinn-github09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
