@@ -43,7 +43,7 @@
 
 ###
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Roshan2709&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Roshan2709?font=milonga)
 
 ### 👨‍👨‍👦‍👦 Connect with Me:
 - LinkedIn: [Roshan's LinkedIn](https://www.linkedin.com/in/t-roshan-3973041b5/)
