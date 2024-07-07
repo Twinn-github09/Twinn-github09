@@ -42,6 +42,9 @@
 </div>
 
 ###
+
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Roshan2709&theme=dark)
+
 ### 👨‍👨‍👦‍👦 Connect with Me:
 - LinkedIn: [Roshan's LinkedIn](https://www.linkedin.com/in/t-roshan-3973041b5/)
 
