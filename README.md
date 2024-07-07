@@ -17,6 +17,17 @@
 
 💻 Exploring new technologies
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ### 👨‍👨‍👦‍👦 Connect with Me:
 - LinkedIn: [Roshan's LinkedIn](https://www.linkedin.com/in/t-roshan-3973041b5/)
