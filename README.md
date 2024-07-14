@@ -8,9 +8,9 @@
 ⚡ Highly interested in technology and passionate about Artificial Intelligence
 
 ### Skills:
-- Programming Languages:
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+
+  <h3 align="centre">Languages and Tools:</h3>
+  <p align="centre">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
@@ -81,11 +81,7 @@
 
 💻 Exploring new technologies
 
-<h3 align="left">🔥 My Stats:</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Twinn-github09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
 
 <h3 align="left">🔥 Activity:</h3>
 
@@ -94,7 +90,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Twinn-github09&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Roshan2709?font=milonga)
+<h3 align="left">🔥 My Stats:</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Twinn-github09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
 ### 👨‍👨‍👦‍👦 Connect with Me:
 - LinkedIn: [Roshan's LinkedIn](https://www.linkedin.com/in/t-roshan-3973041b5/)
