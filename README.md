@@ -3,8 +3,37 @@
 ###
 
 <div align="right">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt4M2NtYnFkaXA2Y2VhODFhejlhbDBlYnpzcG11cjVrd2x6djFvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je3ktsieOfOGa1G/giphy.gif"  />
+ <img src="good-times.svg" width="400px">
 </div>
+
+
+<div align="center"> 
+  <h1>Welcome to my profile!</h1> 
+</div> 
+
+--- 
+
+
+
+
+<div align="center">
+
+  <h2><i>Welcome</i><br><small>to my profile!</small></h2>
+
+  <!-- Skill Icons -->
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="40"/>
+  </p>
+
+  <p><i>← Good at these! →</i></p>
+
+</div>
+ 
 
 ###
 
