@@ -1,42 +1,32 @@
-<h1 align="left">Hi This is Roshan...</h1>
-
-###
+---
 <div align="center">
- <img src="header_1.png">
+ <img src="banner_final.png">
 </div>
 
-<div align="right">
- <img src="good-times.svg" width="400px">
-</div>
-
+---
 
 <div align="center"> 
   <h1>Welcome to my profile!</h1> 
 </div> 
 
+---
+
+<div align="center">
+ <img src="header_1.png">
+</div>
+
+<div style="display: flex; gap: 200px;">
+  
+  <img src="octocat-1753360493933.png" width="400px" style="padding: 200px;" >
+</div>
+
+
+
+
 --- 
 
 
 
-
-<div align="center">
-
-  <h2><i>Welcome</i><br><small>to my profile!</small></h2>
-
-  <!-- Skill Icons -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="40"/>
-  </p>
-
-  <p><i>← Good at these! →</i></p>
-
-</div>
- 
 
 ###
 
