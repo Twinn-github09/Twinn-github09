@@ -1,6 +1,9 @@
 <h1 align="left">Hi This is Roshan...</h1>
 
 ###
+<div align="center">
+ <img src="header_1.png">
+</div>
 
 <div align="right">
  <img src="good-times.svg" width="400px">
