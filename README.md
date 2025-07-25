@@ -57,7 +57,7 @@
 - **Cloud & DevOps** – GCP, Docker, Kubernetes
 
 ## 📸 Creative Side
-Avid interest in **Photography**
+interest in **Photography**
 
 
 
@@ -71,125 +71,75 @@ Avid interest in **Photography**
 
 ---
 
+
 <h3>🧰 Programming Languages</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/>C
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>C++
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>Python
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div align="left" width="10>
+   
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,python&perline=3)](https://skillicons.dev)
+  
+  </div>
+</div>
 
 ---
 
 <h3>🎨 Frontend Development</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/><br/>Next.js
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/>Tailwind
-    </td>
-    <td align="center">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/><br/>React Native
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div align="left" width="10>
+   
+  [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=3)](https://skillicons.dev)
+  
+  </div>
+</div>
 
 ---
 
 <h3>🛠 Backend & DevOps</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/>Express
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br/>Docker
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/><br/>Kubernetes
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/><br/>Nginx
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div align="left" width="10>
+   
+  [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,docker,kubernetes,aws,azure,nginx&perline=5)](https://skillicons.dev)
+  
+  </div>
+</div>
 
 ---
 
 <h3>☁️ Cloud & Databases</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br/>AWS
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/><br/>GCP
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br/>Firebase
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br/>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br/>Redis
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div align="left" width="10>
+   
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,mongodb,redis,postgres&perline=3)](https://skillicons.dev)
+  
+  </div>
+</div>
 
 ---
 
 <h3>📊 Data Science & Machine Learning</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br/>Scikit-Learn
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br/>TensorFlow
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><br/>PyTorch
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div align="left" width="10>
+   
+  [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,java,js,python&perline=3)](https://skillicons.dev)
+  
+  </div>
+</div>
 
 ---
 
 <h3>🎨 Others / Tools</h3>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div align="left" width="10>
+   
+  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,matlab&perline=3)](https://skillicons.dev)
+  
+  </div>
+</div>
 <table>
   <tr>
     <td align="center">
