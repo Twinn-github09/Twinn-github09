@@ -136,38 +136,13 @@ interest in **Photography**
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div align="left" width="10>
    
-  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,matlab&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,matlab,opencv,ps,linux,blender&perline=4)](https://skillicons.dev)
   
   </div>
 </div>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br/>Figma
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/><br/>MATLAB
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/><br/>Photoshop
-    </td>
-    <td align="center">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/><br/>Blender
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/><br/>OpenCV
-    </td>
-    <td align="center">
-      <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/><br/>Chart.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux
-    </td>
-  </tr>
-</table>
+
+
+
 
 ---
 
